@@ -172,7 +172,6 @@
           "artifact": {
             "size": 285,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/config/iris.properties",
-            "MD5": "c5cfef801f49ba1a66192b0f9c225413",
             "path": "config/iris.properties"
           }
         },
@@ -181,9 +180,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 223,
+            "size": 220,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/options.txt",
-            "MD5": "71a0b3ef0ae67374925be388bb1b66ec",
+            "MD5": "f36cd4c6d54ffeec61ad0ea4fd7b5d73",
             "path": "options.txt"
           }
         },
@@ -194,7 +193,6 @@
           "artifact": {
             "size": 42,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/optionsshaders.txt",
-            "MD5": "4ae51699aa89bb5cfc84eb3e3cc01228",
             "path": "optionsshaders.txt"
           }
         },
@@ -205,7 +203,6 @@
           "artifact": {
             "size": 95,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/servers.dat",
-            "MD5": "9feb97db12b6d9e8f8f6362a6a4ad030",
             "path": "servers.dat"
           }
         },

@@ -6,5 +6,5 @@ lang:ko_kr
 narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
-skipRealms32bitWarning:true
+onboardAccessibility:false
 soundCategory_music:0.0

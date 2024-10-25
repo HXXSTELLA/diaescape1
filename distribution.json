@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "diaescape-1.20.1",
-      "name": "diaescape (Minecraft 1.20.1)",
+      "name": "DIAESCAPE",
       "description": "Minecraft 1.20.1 (Fabric v0.16.7)",
       "icon": "https://github.com/HXXSTELLA/diaescape1/raw/main/server-icon.png",
       "version": "1.0.0",

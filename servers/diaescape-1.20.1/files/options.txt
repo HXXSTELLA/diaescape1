@@ -1,6 +1,9 @@
 version:3465
+realmsNotifications:false
 resourcePacks:["fabric"]
 incompatibleResourcePacks:[]
 lang:ko_kr
 tutorialStep:none
+skipMultiplayerWarning:true
+skipRealms32bitWarning:true
 soundCategory_music:0.0

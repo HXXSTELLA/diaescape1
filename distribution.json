@@ -136,43 +136,77 @@
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.91.0+1.20.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.92.2+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2060204,
-            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/fabric-api-0.91.01.20.1.jar",
-            "MD5": "f1d40110a047d4e66b2e96b7c86d11f9"
+            "size": 2107289,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/fabric-api-0.92.2+1.20.1.jar",
+            "MD5": "92c58961866741106aae126558c9d4a7"
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.6.11@jar",
+          "id": "generated.fabricmod:iris:1.7.5+mc1.20.1@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2419351,
-            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/iris-mc1.20.1-1.6.11.jar",
-            "MD5": "8f7d331dae17ab26d6b50886bf7078f1"
+            "size": 2730664,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/iris-1.7.5+mc1.20.1.jar",
+            "MD5": "902528a82a843300ecf9027af9f8fb8c"
           }
         },
         {
-          "id": "journeymap:journeymap:5.9.18@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 7270799,
-            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/journeymap-1.20.1-5.9.18-fabric.jar",
-            "MD5": "7d13ed3d2e5137be5e6f3eed73f777b6"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods:sodium:0.5.3@jar",
+          "id": "me.jellysquid.mods:sodium:0.5.11+mc1.20.1@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 852373,
-            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
-            "MD5": "11db63c388786f3bfdb9e60c9c0a25c1"
+            "size": 968419,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/sodium-fabric-0.5.11+mc1.20.1.jar",
+            "MD5": "9880bae748957d1cb6c4de50c8e0452a"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/config/iris.properties",
+            "MD5": "c5cfef801f49ba1a66192b0f9c225413",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/options.txt",
+            "MD5": "b487a631ea1067b005b7a9070452b067",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/optionsshaders.txt",
+            "MD5": "4ae51699aa89bb5cfc84eb3e3cc01228",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/servers.dat",
+            "MD5": "9feb97db12b6d9e8f8f6362a6a4ad030",
+            "path": "servers.dat"
           }
         },
         {

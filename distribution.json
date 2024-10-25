@@ -181,9 +181,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 211,
+            "size": 223,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/options.txt",
-            "MD5": "8d2be049e8ff7813a0e4b8d96619c3a1",
+            "MD5": "71a0b3ef0ae67374925be388bb1b66ec",
             "path": "options.txt"
           }
         },

@@ -3,6 +3,7 @@ realmsNotifications:false
 resourcePacks:["fabric"]
 incompatibleResourcePacks:[]
 lang:ko_kr
+narrator:0
 tutorialStep:none
 skipMultiplayerWarning:true
 skipRealms32bitWarning:true

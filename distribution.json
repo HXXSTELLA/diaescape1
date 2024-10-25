@@ -156,6 +156,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods:sodium:0.5.3@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 852373,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/fabricmods/required/sodium-fabric-mc1.20.1-0.5.3.jar",
+            "MD5": "11db63c388786f3bfdb9e60c9c0a25c1"
+          }
+        },
+        {
           "id": "ComplementaryUnbound_r5.1.1.zip",
           "name": "ComplementaryUnbound_r5.1.1.zip",
           "type": "File",

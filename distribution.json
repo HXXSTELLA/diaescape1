@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Fabric v0.16.7)",
       "icon": "https://github.com/HXXSTELLA/diaescape1/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "hobaektown.co.kr:35565",
+      "address": "hxxstella.co.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -212,8 +212,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 95,
+            "size": 88,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/servers.dat",
+            "MD5": "8356a8dd85aae70f9c2e93e2f05fbbc6",
             "path": "servers.dat"
           }
         },

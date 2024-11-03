@@ -180,7 +180,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 220,
+            "size": 251,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -193,6 +193,17 @@
             "size": 42,
             "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 9894917,
+            "url": "https://github.com/HXXSTELLA/diaescape1/raw/main/servers/diaescape-1.20.1/files/resourcepacks/generated.zip",
+            "MD5": "fcf2221f16099281c11269259a18c39f",
+            "path": "resourcepacks/generated.zip"
           }
         },
         {

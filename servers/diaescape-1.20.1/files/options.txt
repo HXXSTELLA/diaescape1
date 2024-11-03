@@ -1,6 +1,6 @@
 version:3465
 realmsNotifications:false
-resourcePacks:["fabric"]
+resourcePacks:["vanilla","fabric","file/generated.zip"]
 incompatibleResourcePacks:[]
 lang:ko_kr
 narrator:0

@@ -10,5 +10,5 @@ tutorialStep:none
 skipMultiplayerWarning:true
 onboardAccessibility:false
 key_key.chat:key.keyboard.enter
-soundCategory_master:0.5
+soundCategory_master:0.4
 soundCategory_music:0.0
